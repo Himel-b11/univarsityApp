@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "810461076712",
+    "project_id": "university-6a38c",
+    "storage_bucket": "university-6a38c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810461076712:android:55b8ce1ab7798906f93d5d",
+        "android_client_info": {
+          "package_name": "com.himelbrur.universityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810461076712-vcq34uvjsl14qro0ja42kcd5nbk6oci9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.himelbrur.universityapp",
+            "certificate_hash": "ee50135faa46819385db5c9a430d510e187da0d9"
+          }
+        },
+        {
+          "client_id": "810461076712-5q1gm5tpf20188hs2p5tpslq74ipt666.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhBhEHPC6NltUrZiASxszH_yxDi9Fusqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810461076712-5q1gm5tpf20188hs2p5tpslq74ipt666.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
