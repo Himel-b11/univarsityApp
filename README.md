@@ -1,2 +1,2 @@
-# univarsityApp
-It is my first university project!!
+# UnivarsityApp
+It is my first University project!!
